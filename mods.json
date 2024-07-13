@@ -1,7 +1,7 @@
 {
    "mods" : [
       {
-         "name" : "BepInEx",
+         "name" : "BepInEx", hbhghgh
          "tag" : "",
          "gitPath" : "BepInEx/BepInEx",
          "releaseId" : 1,
